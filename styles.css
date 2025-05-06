@@ -383,7 +383,7 @@ div h3 {
 
 footer {
     display: flex;
-    padding: 80px 0px;
+    padding: 100px 0px;
     justify-content: space-between;
     align-items: start;
 }
@@ -411,4 +411,14 @@ footer article section {
     justify-content: start;
     align-items: center;
     gap: 20px;
+}
+
+.made-love {
+    margin: 0px -12%;
+    background-color: white;
+    padding: 25px;
+    color: grey;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
